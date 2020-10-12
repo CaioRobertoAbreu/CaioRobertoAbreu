@@ -2,14 +2,16 @@
 
 <img src="https://github.com/CaioRobertoAbreu/CaioRobertoAbreu/blob/master/meu_banner.png" alt="meu_banner" />
 
+<p style="font-size: 20px">
 Prazer, nome é Caio e sou estudante de Análise e Desenvolvimento 
 de Sistemas na Fatec. Amo estudar programação e tenho me 
 dedicado bastante na linguagem  *Java*.  
 Atualmente estou procurando meu primeiro emprego na área de 
 tecnologia com foco no back-end.
+</p>
 #  
  
-#### O que eu uso
+### O que eu uso
 
 <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -25,7 +27,7 @@ tecnologia com foco no back-end.
 
 #
 
-#### Entre em contato comigo
+### Entre em contato comigo
 
 <div>
     <a href="https://www.linkedin.com/in/caioabreudev/" target="_blank">
