@@ -1,4 +1,5 @@
-### Olá, pessoal! Seja bem-vindx ao meu perfil : ) :wave: :computer:
+## Olá, pessoal! Seja bem-vindx ao meu perfil : ) :wave: :computer:
+
 
 Prazer, nome é Caio e sou estudante de Análise e Desenvolvimento 
 de Sistemas na Fatec. Amo estudar programação e tenho me 
