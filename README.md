@@ -35,3 +35,5 @@ tecnologia com foco no back-end.
 </div>
 
 #
+
+### Obrigado pela atenção!  :v:
