@@ -1,6 +1,6 @@
 ### Olá, pessoal! Seja bem-vindx ao meu perfil : ) :wave: :computer:
 
-Meu nome é Caio, e sou estudante de Análise e Desenvolvimento 
+Prazer, nome é Caio e sou estudante de Análise e Desenvolvimento 
 de Sistemas na Fatec. Amo estudar programação e tenho me 
 dedicado bastante na linguagem  *Java*.  
 Atualmente estou procurando meu primeiro emprego na área de 
