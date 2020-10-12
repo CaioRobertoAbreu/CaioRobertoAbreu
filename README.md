@@ -1,8 +1,5 @@
 ### Olá, pessoal! Seja bem-vindx ao meu perfil : ) :wave: :computer:
 
-<img src="https://github.com/CaioRobertoAbreu/CaioRobertoAbreu/blob/master/meu_banner.png" alt="meu_banner" />
-
-
 Prazer, nome é Caio e sou estudante de Análise e Desenvolvimento 
 de Sistemas na Fatec. Amo estudar programação e tenho me 
 dedicado bastante na linguagem  *Java*.  
