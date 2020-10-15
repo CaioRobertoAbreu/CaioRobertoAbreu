@@ -19,8 +19,6 @@ tecnologia com foco no back-end.
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Rest API-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="Api Rest">
     <img src="https://img.shields.io/badge/IntelliJ-000000?logo=&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/JUnit-A42E2B?logo=&logoColor=white&style=for-the-badge" alt="jUnit">
-    <img src="https://img.shields.io/badge/Mockito-7EBD00?logo=&logoColor=white&style=for-the-badge" alt="jUnit">
 </div>
 
 #
