@@ -23,6 +23,31 @@ tecnologia com foco no back-end.
 
 #
 
+###Principais projetos
+
+<a href="https://github.com/CaioRobertoAbreu/eventoapp">
+    <img src="https://img.shields.io/badge/Eventoapp-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="Eventoapp">
+</a>
+
+<a href="https://github.com/CaioRobertoAbreu/ApiRest-B-sica">
+    <img src="https://img.shields.io/badge/Api Rest básica-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="Api Rest básica">
+</a>
+
+<a href="https://github.com/CaioRobertoAbreu/LojaApp">
+    <img src="https://img.shields.io/badge/LojaApp-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="LojaApp">
+</a>
+
+<a href="https://github.com/CaioRobertoAbreu/Concessionaria">
+    <img src="https://img.shields.io/badge/Concessionaria (em andamento)-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="Concessionaria">
+</a>
+
+<a href="https://github.com/CaioRobertoAbreu/JUnit-Mockito">
+    <img src="https://img.shields.io/badge/JUnit+Mockito-0096D6?logo=&logoColor=white&style=for-the-badge"  alt="Concessionaria">
+</a>
+
+
+#
+
 ### Entre em contato comigo
 
 <div>
